@@ -1,0 +1,16 @@
+{
+  "name": "pingplz-desktop",
+  "productName": "pingplz-desktop",
+  "version": "0.0.1",
+  "description": "Game server side latency monitoring utility, made for serious games",
+  "main": "./main.js",
+  "author": {
+    "name": "C. T. Lin",
+    "email": "chentsulin@gmail.com",
+    "url": "https://github.com/chentsulin"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "net-ping": "^1.2.0"
+  }
+}
